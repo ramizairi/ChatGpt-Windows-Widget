@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRmR7qvb8+l012ZLonCF8/PAN3GsAYTr3LsWgD8DUN44tlNq0zmRFpiYqnphleKEOaolBaMDXAn3wEaQz5/7yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hlinu\\Desktop\\Source Codes\\X AI\\ChatGpt Widget\\ChatGpt Widget\\ChatGpt Widget.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hlinu\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\hlinu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\hlinu\\.nuget\\packages\\syncfusion.licensing\\21.1.41\\syncfusion.licensing.21.1.41.nupkg.sha512",
+    "C:\\Users\\hlinu\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\hlinu\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

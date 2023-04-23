@@ -1,0 +1,26 @@
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\ChatGpt Widget.exe
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\ChatGpt Widget.deps.json
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\ChatGpt Widget.runtimeconfig.json
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\ChatGpt Widget.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\ChatGpt Widget.pdb
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.vbproj.AssemblyReference.cache
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt_Widget.Form1.resources
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.vbproj.GenerateResource.cache
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.AssemblyInfoInputs.cache
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.AssemblyInfo.vb
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.vbproj.CoreCompileInputs.cache
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.vbproj.CopyComplete
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\refint\ChatGpt Widget.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.pdb
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt Widget.genruntimeconfig.cache
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ref\ChatGpt Widget.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt_Widget.Resources.resources
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\ChatGpt Widget.dll.config
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\obj\Debug\net6.0-windows\ChatGpt_Widget.api.resources
+C:\Users\hlinu\Desktop\Source Codes\X AI\ChatGpt Widget\ChatGpt Widget\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
